@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://kangimonk96.github.io/"
 languageCode = "en-us"
 title = "Linux is My Adventure"
 disablePathToLower = false
