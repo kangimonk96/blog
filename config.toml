@@ -1,6 +1,6 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Lombokfoss"
+title = "Linux is My Adventure"
 disablePathToLower = false
 
 #themesDir = "themes"
@@ -35,7 +35,7 @@ post = "/:slug/"
     author = "Ardianta Pargo"
 
     # This text appears in site header under website title
-    subtitle = "Blog Pengguna Linux dari Lombok"
+    subtitle = "Blog Pengguna Linux dari Pasuruan"
 
     # Search engine URL
     searchEngineURL = "https://www.google.com/search"
